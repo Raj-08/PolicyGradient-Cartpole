@@ -1,3 +1,3 @@
 # PolicyGradient-Cartpole
 
-<img src="./assets/image.gif" width="50%" height="50%"/>
+<img src="./8tcJPCz.gif" width="50%" height="50%"/>
