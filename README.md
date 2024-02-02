@@ -1,10 +1,7 @@
 # PolicyGradient-Cartpole
 
 
-```
-keraas
-openaigym
-```
+Train the Policy Gradient Method using Keras -- 
 
 ```
 python policy.py
